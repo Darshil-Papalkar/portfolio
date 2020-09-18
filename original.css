@@ -75,7 +75,7 @@
 }
 
 #progress-achieved {
-    background: url(programming-code1.jpg);
+    background: url(assets//programming-code1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.8;
@@ -461,7 +461,7 @@ svg circle:nth-child(2) {
 }
 
 #projects {
-    background-image: url(original.jpg);
+    background-image: url(assets//original.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -598,7 +598,7 @@ svg circle:nth-child(2) {
     font-family: Open Sans;
     font-weight: 300;
     line-height: 1.8;
-    background-image: url(background.jpg);
+    background-image: url(assets//background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -775,7 +775,7 @@ svg circle:nth-child(2) {
 }
 
 .cards-personal #overview .right {
-    background: url(profile.jpeg) no-repeat bottom right;
+    background: url(assets//profile.jpeg) no-repeat bottom right;
     background-size: contain;
 }
 
